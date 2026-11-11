@@ -1,6 +1,6 @@
 /* Profile photo on the Home page */
 .profile-photo {
-  border-radius: 50%;
+  border-radius: 12px;
   width: 160px;
   height: 160px;
   object-fit: cover;
@@ -8,11 +8,12 @@
   margin: 0 auto 0.75rem auto;
 }
 
-/* Hero section on the Home page */
+/* Hero section on the Home page (Dark Mode compatible) */
 .hero {
   text-align: center;
   padding: 1rem 1rem 1.25rem 1rem;
-  background: linear-gradient(135deg, #e8f4f8 0%, #f0f7ff 50%, #e8f0fe 100%);
+  background: var(--md-card-bg-color, rgba(255, 255, 255, 0.05));
+  border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: 8px;
 }
 
@@ -89,7 +90,8 @@
 
 /* Skills grid cards on the Home page */
 .md-typeset .grid.cards > ul > li {
-  background-color: #f0f7ff;
+  background-color: var(--md-card-bg-color, rgba(255, 255, 255, 0.05));
+  border: 1px solid var(--md-default-fg-color--lightest);
 }
 
 /* Project cards on the Projects gallery page */
@@ -97,12 +99,12 @@
   border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: 8px;
   padding: 1rem;
-  background-color: #f0f7ff;
+  background-color: var(--md-card-bg-color, rgba(255, 255, 255, 0.05));
   transition: box-shadow 0.2s;
 }
 
 .project-card:hover {
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
 }
 
 .project-card img {

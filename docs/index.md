@@ -20,9 +20,10 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="hero">
   <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <h1>Hemungshew Borgohain</h1>
+  <p><strong>Geoinformatik Master's Student</strong></p>
+  <p class="hero-tagline">Universität Salzburg | Geospatial Developer & Data Scientist</p>
+  <p><em>~Mapping Patterns Decoding Places~</em></p>
 </div>
 
 ---
@@ -32,15 +33,7 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
-
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+I am an aspiring Geospatial Professional pursuing an MSc in Applied Geoinformatics at Paris Lodron Universität Salzburg. With expertise in GIS, remote sensing, spatial analysis, and geospatial programming, I work at the intersection of geography and data to transform complex spatial information into meaningful insights. My experience includes satellite and drone data processing, cartographic visualization, spatial database management, and geospatial analytics. As I continue to expand my capabilities in GeoAI, deep learning, and advanced remote sensing, I remain committed to leveraging geospatial technology to address real-world challenges and support informed decision-making.
 
 </div>
 
@@ -66,10 +59,10 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
     ---
 
-    - QGIS, ArcGIS Pro, Google Earth Engine
-    - GDAL / OGR, GRASS GIS
+    - QGIS, ArcGIS Pro, Online, Google Earth Engine
+    - ErdasImagine, AutoCAD Map
     - Multispectral and SAR image analysis
-    - Cloud Native Geospatial (COG, STAC, Zarr)
+    - Cloud Native Geospatial (COG, STAC, Zarr) [pending]
 
 -   :material-code-braces:{ .lg .middle } **Programming**
 
@@ -77,24 +70,24 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
     - Python — GeoPandas, NumPy, Pandas, Matplotlib
     - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL
-    - SQL, PostgreSQL + PostGIS
+    - JavaScript — Leaflet, MapLibre GL [pending]
+    - SQL, PostgreSQL + PostGIS [pending]
 
 -   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
 
     ---
 
     - Supervised classification — Random Forest, XGBoost
-    - Deep learning for image segmentation — U-Net, SAM
-    - scikit-learn, PyTorch, TensorFlow
-    - Object detection in satellite imagery
+    - Deep learning for image segmentation — U-Net, SAM [pending]
+    - scikit-learn, PyTorch, TensorFlow [pending]
+    - Object detection in satellite imagery 
 
 -   :material-earth:{ .lg .middle } **Web Mapping & Data**
 
     ---
 
-    - Leaflet.js, Folium, MapLibre GL JS
-    - Cloud storage — AWS S3, Google Cloud Storage
+    - Leaflet.js, Folium, MapLibre GL JS [*]
+    - Cloud storage — AWS S3, Google Cloud Storage [*]
     - Data formats — GeoTIFF, GeoParquet, NetCDF
     - Streamlit for data-driven web apps
 
@@ -102,11 +95,13 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
     ---
 
-    - PostgreSQL + PostGIS
-    - Cloud storage: AWS S3, Google Cloud Storage
+    - PostgreSQL + PostGIS [*]
+    - Cloud storage: AWS S3, Google Cloud Storage [*]
     - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
 
 -   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
+
+    ---
 
     - Mission planning and flight operations
     - Photogrammetry: Agisoft Metashape, OpenDroneMap
@@ -118,5 +113,5 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/hemungshewborgohain7777){ .md-button }
+[LinkedIn](https://linkedin.com/in/et7777){ .md-button }
