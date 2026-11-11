@@ -3,13 +3,6 @@ hide:
   - toc
   - navigation
 ---
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace each [YOUR ...] placeholder with your actual information
-- [ ] Add or remove job entries as needed (copy the format of an existing entry)
-- [ ] Add or remove education entries
-- [ ] Add or remove certifications
--->
 
 # Experience & Education
 
@@ -19,23 +12,25 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="timeline-entry" markdown>
 
-### [YOUR JOB TITLE] — [YOUR COMPANY / ORGANIZATION]
-*[Month Year] – [Month Year or Present] | [City, Country]*
+### GIS Intern — Department of Irrigation, Assam
+*July 2024 – August 2024 | Guwahati, India*
 
-- [Describe your main responsibility or achievement in one sentence]
-- [Describe another key task, project, or result]
-- [Describe a tool, method, or skill you applied regularly]
+- Delineated the catchment area of the Batha River Ubhati Outlet using QGIS 3.16.0 to support irrigation planning and water resource management.
+- Analyzed topographic and hydrological data to identify watershed boundaries and map the catchment.
+- Worked with engineers to apply the results to irrigation planning.
+- Prepared technical reports documenting the delineation for departmental use.
 
 </div>
 
 <div class="timeline-entry" markdown>
 
-### [YOUR PREVIOUS JOB TITLE] — [YOUR PREVIOUS COMPANY]
-*[Month Year] – [Month Year] | [City, Country]*
+### GIS Trainee (Virtual Summer Intern) — GeoVigyan
+*June 2024 – July 2024 | Guwahati, India*
 
-- [Describe your main responsibility or achievement in one sentence]
-- [Describe another key task, project, or result]
-- [Describe a tool, method, or skill you applied regularly]
+- Assessed forest health and land use/land cover (LULC) change in Palamau Tiger Reserve, Jharkhand, using Google Earth Engine and ArcGIS 10.7.1 with Landsat 8 imagery from USGS Earth Explorer.
+- Mapped and quantified LULC changes (vegetation, agriculture, built-up, water) using Random Forest classification with accuracy assessment.
+- Evaluated forest health with an NDVI-based Forest Health Index, identifying predominantly "average" vegetation condition shaped by seasonal, human, and natural stressors.
+- Produced geospatial insights to support environmental monitoring, conservation planning, and sustainable management.
 
 </div>
 
@@ -45,22 +40,21 @@ CHECKLIST FOR THIS PAGE:
 
 ## Education
 
-### [YOUR DEGREE] in [YOUR FIELD]
-**[YOUR UNIVERSITY]** | *[Year of Graduation]*
+### Master of Science in Applied Geoinformatics
+**Paris Lodron University Salzburg (PLUS)** | *October 2026 – Present*
 
-[Optional: one sentence about your thesis, specialization, or coursework if relevant]
-
----
-
-### [YOUR PREVIOUS DEGREE] in [YOUR FIELD]
-**[YOUR UNIVERSITY]** | *[Year of Graduation]*
+Focus on software and applications development and analysis combined with Earth sciences (EQF level 7).
 
 ---
 
-## Certifications
+### Diploma in Geoinformatics
+**ACCELCRAFT Institute of Geoinformatics Technology** | *2025 – 2026*
 
-- [Certification Name] — [Issuing Organization], [Year]
-- [Certification Name] — [Issuing Organization], [Year]
-- [Certification Name] — [Issuing Organization], [Year]
+Applied training in GIS, cartography, spatial data handling, remote sensing, and photogrammetry. Hands-on work with ArcMap, ArcScene, ArcGIS Pro, QGIS, AutoCAD Map, MicroStation, ERDAS Imagine, drone-based mapping (Pix4D, Agisoft Metashape), LiDAR mapping, 3D photogrammetry (3DLPS), and Google Earth Engine.
 
-*Examples: QGIS Certification, PMP Certification, AWS Certified Cloud Practitioner*
+---
+
+### B.Sc. (Hons) in Geography
+**Assam Royal Global University** | *2022-2025*
+
+First Division with Distinction (CGPA 8.97). Thesis: *Delineating the Catchment Area of the Batha River Ubhati Outlet Using QGIS 3.16.0*.
