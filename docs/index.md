@@ -59,19 +59,19 @@ I am an aspiring Geospatial Professional pursuing an MSc in Applied Geoinformati
 
     ---
 
-    - QGIS, ArcGIS Pro, Online, Google Earth Engine
+    - QGIS, ArcGIS Pro & Online
     - ErdasImagine, AutoCAD Map
     - Multispectral and SAR image analysis
-    - Cloud Native Geospatial (COG, STAC, Zarr) [pending]
+    - Cloud Native Geospatial (COG, STAC, Zarr)
 
 -   :material-code-braces:{ .lg .middle } **Programming**
 
     ---
 
-    - Python — GeoPandas, NumPy, Pandas, Matplotlib
+    - Python — NumPy, Pandas, Matplotlib, Seaborn, GeoPandas, Rasterio, XArray
     - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL [pending]
-    - SQL, PostgreSQL + PostGIS [pending]
+    - Google Earth Engine, geemap
+    - SQL
 
 -   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
 
@@ -79,15 +79,14 @@ I am an aspiring Geospatial Professional pursuing an MSc in Applied Geoinformati
 
     - Supervised classification — Random Forest, XGBoost
     - Deep learning for image segmentation — U-Net, SAM [pending]
-    - scikit-learn, PyTorch, TensorFlow [pending]
+    - scikit-learn, PyTorch, TensorFlow
     - Object detection in satellite imagery 
 
 -   :material-earth:{ .lg .middle } **Web Mapping & Data**
 
     ---
 
-    - Leaflet.js, Folium, MapLibre GL JS [*]
-    - Cloud storage — AWS S3, Google Cloud Storage [*]
+    - Leaflet.js, Folium, MapLibre GL JS 
     - Data formats — GeoTIFF, GeoParquet, NetCDF
     - Streamlit for data-driven web apps
 
@@ -105,7 +104,7 @@ I am an aspiring Geospatial Professional pursuing an MSc in Applied Geoinformati
 
     - Mission planning and flight operations
     - Photogrammetry: Agisoft Metashape, OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
+    - Point cloud classification: Bentley Microstation
 </div>
 
 
