@@ -13,7 +13,11 @@ CHECKLIST FOR THIS PAGE:
 
 # Publications
 
-## Journal Articles
+## Book Publication
+
+1. Hemungshew Borgohain ([2025]). "Flood Susceptibility Mapping of Kaziranga National Park Using GIS-Based Multi-Criteria Weighted Overlay Analysis" *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
+
+<!-- ## Journal Articles
 
 1. [YOUR NAME], [CO-AUTHOR NAME], and [CO-AUTHOR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
 
@@ -29,11 +33,11 @@ CHECKLIST FOR THIS PAGE:
 
 2. [YOUR NAME] ([YEAR]). "[Your presentation title]." *[Conference Name]*, [City, Country].
 
----
+--- -->
 
 ## Theses
 
-- [YOUR NAME] ([YEAR]). *[Your thesis title]*. [Degree type] thesis. [University Name].
+- Hemungshew Borgohain ([YEAR]). *Delineation of Catchment Area of Batha Ubhati Outlet Using QGIS 3.16.0.*. BSc.(H) Geogaphy thesis. Assam Royal Global University.
 
 ---
 
